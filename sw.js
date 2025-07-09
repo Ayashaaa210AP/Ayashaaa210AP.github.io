@@ -6,8 +6,8 @@ self.addEventListener('install', event => {
         './',
         './index.html',
         './manifest.json',
-        './icons/192.png',
-        './icons/512.png'
+        './icons/1chrome-192x192.png',
+        './icons/1chrome-512x512.png'
       ]);
     })
   );
